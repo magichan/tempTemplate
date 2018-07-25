@@ -4,7 +4,7 @@
 
 ### 次级段落标题
 
-```go 
+```go
 // 代码高亮
 package main
 import (
@@ -22,8 +22,7 @@ func main() {
 * 列表2
 * 列表3
 
-图片: 
-![logo](https://github.com/studygolang/GCTT/blob/master/logo.png?raw=true)
+图片:![logo](https://github.com/studygolang/GCTT/blob/master/logo.png?raw=true)
 
 ----------------
 
